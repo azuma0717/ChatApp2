@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "966433341929",
+    "firebase_url": "https://chatapp2android.firebaseio.com",
+    "project_id": "chatapp2android",
+    "storage_bucket": "chatapp2android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966433341929:android:3899036825ca6389",
+        "android_client_info": {
+          "package_name": "com.gmail.yuki.chatapp2_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966433341929-ss952t0la8km7um67sace9g7j2a5puvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.yuki.chatapp2_android",
+            "certificate_hash": "54d4b3deb60c8d763462003c1a7204b3aee70986"
+          }
+        },
+        {
+          "client_id": "966433341929-q9jip9m5rjlog7og7j2nls3iaasm1609.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQOnAKYcEMgN29f3vWWi7-T3VtFp1zKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966433341929-q9jip9m5rjlog7og7j2nls3iaasm1609.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
